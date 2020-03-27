@@ -3,8 +3,6 @@
 
 ## Dependencies
 
-Install following pagages to cross-compile for arm64:
-
 ## ARM 32bit toolchain
 <pre>
 $ sudo apt-get install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
@@ -13,7 +11,6 @@ $ sudo apt-get install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
 ## ARM 64bit toolchain
 <pre>
 $ sudo apt-get install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
-Step 4: Install package dependencies
 </pre>
 
 ## Required packages
