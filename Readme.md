@@ -27,7 +27,7 @@ $ sudo apt-get install build-essential autoconf libtool cmake pkg-config git pyt
 Clone and compile this tool using following command:
 
 <pre>
-$ git clone 
+$ git clone https://github.com/Scott31393/fb-tool.git 
 $ cd fb-tool/
 $ chmod 777 compile.sh
 $ ./compile.sh
@@ -40,5 +40,4 @@ Put fb-tool inside your linux system on board (arm64), then run:
 
 follow the log on the screen.
 
-# TODO: Customize line color
 
